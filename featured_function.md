@@ -3,7 +3,7 @@
 
 <br>
 
-## `beep()`:notes: `beep()`:notes: 
+## `beep()`-`beep()`:notes: 
 
 Add a little fun to your scripts! The `beep()` function from the `beepr` package plays various sounds on command. 
 Use it to play a sound to alert you when a long running command completes. 
@@ -33,7 +33,5 @@ beepr::beep("mario")
 
 ---  
 
-
-<hr>
 
 ## 
