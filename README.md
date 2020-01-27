@@ -1,6 +1,9 @@
 # tidytuesdays
 
+
 > Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring burning questions, new packages, funny graphs, puzzles, and anything else you'd like to discuss.
+
+The [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday#datasets) site with data.
 
 
 <br>
