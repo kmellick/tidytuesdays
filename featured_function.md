@@ -35,8 +35,6 @@ beepr::beep("mario")
 
 ```
 
----  
-
 
 # `function2()`
 
