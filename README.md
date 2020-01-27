@@ -28,7 +28,7 @@ Open to everyone to contribute – that's you!
         - Facility ID --> TEMPO ID    
 - `library(mpcaggthemes)`
     - _ggplot_ colors and fonts
-- the official-unofficial [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
+- _(official-unofficial)_ [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - `library(mpcatemplates)` or `library(mpcareports)`
