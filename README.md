@@ -2,9 +2,8 @@
 
 <br>
 
-> Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring burning questions, new packages, funny graphs, puzzles, and anything else you'd like to discuss.
-
-> :rocket: Explore this week's -> [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)
+> Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring burning questions, new packages, funny graphs, puzzles, and anything else you'd like to discuss. 
+> :rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)
 
 
 <br>
