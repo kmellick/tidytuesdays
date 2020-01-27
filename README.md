@@ -23,12 +23,13 @@ Open to everyone to contribute – that's you!
     - Connect to delta, tempo, GIS resources
     - Store common reference data
         - Facility ID --> TEMPO ID    
-- `library(ggmpcathemes)`
-- [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
+- `library(mpcaggthemes)`
+    - _ggplot_ colors and fonts
+- the official-unofficial [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - `library(mpcatemplates)` or `library(mpcareports)`
-    - RMarkdown w/ set logo, header, fonts
+    - RMarkdown templates with logo, header, fonts
     - <img src="images/mpca_template.png" width="60%"> 
 
 <br>
