@@ -24,7 +24,7 @@ Open to everyone to contribute – that's you!
     - Store common reference data
         - Facility ID --> TEMPO ID    
 - `library(ggmpcathemes)`
-- (Data guide)[https://mpca-data.github.io/Data-Guide/] 
+- [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - `library(mpcatemplates)` or `library(mpcareports)`
