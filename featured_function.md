@@ -2,7 +2,7 @@
 
 <br>
 
-- [`beep()`](#beep-beep:notes:)
+- [`beep()`](#beep-beepnotes)
 
 <br>
 
