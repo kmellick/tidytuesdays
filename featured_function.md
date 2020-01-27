@@ -16,6 +16,7 @@ devtools::install_github("beepr")
 <img src="images/mario.ico" style="float: left; margin-top: 2px; margin-right: 18px;" />
 
 <div style="float: left;">
+  
 ```{r}
 library(beepr)
 
