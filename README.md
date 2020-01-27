@@ -10,7 +10,7 @@
 
 ## :hatching_chick: Featured functions
 
-- `beepr::beep("mario")`
+- [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#beep-beepnotes)
 
 
 <br>
