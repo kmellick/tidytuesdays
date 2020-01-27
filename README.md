@@ -3,7 +3,7 @@
 
 > Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring burning questions, new packages, funny graphs, puzzles, and anything else you'd like to discuss.
 
-The [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday#datasets) site with data.
+Explore this week's Tidy Tuesday [data](https://github.com/rfordatascience/tidytuesday#datasets).
 
 
 <br>
@@ -20,6 +20,7 @@ The [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday#datasets) site
 Open to everyone to contribute – that's you!
 
 - MPCA / MN R hex sticker <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%"> 
+    - A porg, or a flyging squirrel, or a porg on a flying squirrel?
 - `library(mpcadata)`
     - Connect to delta, tempo, GIS resources
     - Store common reference data
