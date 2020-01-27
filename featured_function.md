@@ -1,9 +1,12 @@
 # :hatching_chick: Featured functions
 
+<br>
+
+- [`beep()`](#beep-beep:notes:)
 
 <br>
 
-# `beep()`-`beep()`:notes: 
+# `beep()`-`beep()`:notes: {beep}
 
 Add a little music to your scripts! The `beep()` function from the `beepr` package plays various sounds on command. 
 Use it to play a sound to alert you when a long running command completes. 
@@ -13,7 +16,7 @@ Here's an example that plays the happy __Mario__ coin sound after the script run
 devtools::install_github("beepr")
 ```
 
-<img src="images/mario.ico" width="15%" />
+<img src="images/mario.ico" width="13%" />
 
   
 ```{r}
