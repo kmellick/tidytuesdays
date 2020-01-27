@@ -3,7 +3,7 @@
 <br>
 
 - [`beep()`](#beep-beepnotes)
-- [`function2()`](#function2)
+- [`function2()`](#function-2)
 
 <br>
 
