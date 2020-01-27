@@ -1,5 +1,5 @@
 # tidytuesdays
-:cherries::cake::tada:  Weekly group R time and magic buffet
+:cherries::cake::tada:  Weekly group R time and perhaps magic
 
 
 > Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring burning questions, new packages, funny graphs, puzzles, and anything else you'd like to discuss.
@@ -29,4 +29,6 @@ Open to everyone to contribute – that's you!
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown w/ set logo, header, fonts
-    - ![](images/mpca_template.png
+    - <img src="images/mpca_template.png" width="60%"> 
+
+<br>
