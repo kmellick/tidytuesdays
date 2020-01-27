@@ -6,6 +6,12 @@
 > 
 > **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 
+<br>
+
+## :fire: Featured functions
+
+- `beepr::beep("mario")`
+
 
 <br>
 
@@ -18,7 +24,7 @@
 
 ## :earth_africa: Community projects
 
-Open to everyone to contribute – that's you!
+> Open to everyone to contribute – that's you!
 
 - MPCA / MN R hex sticker <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%"> 
     - A porg, or a flyging squirrel, or a porg on a flying squirrel?
