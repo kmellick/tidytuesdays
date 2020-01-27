@@ -5,7 +5,7 @@
 
 ## `beep()`-`beep()`:notes: 
 
-Add a little fun to your scripts! The `beep()` function from the `beepr` package plays various sounds on command. 
+Add a little music to your scripts! The `beep()` function from the `beepr` package plays various sounds on command. 
 Use it to play a sound to alert you when a long running command completes. 
 Here's an example that plays the happy __Mario__ coin sound after the script runs succesfully. 
 
