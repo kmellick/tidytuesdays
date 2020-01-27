@@ -3,13 +3,11 @@
 
 <br>
 
-## :notes: `beep` `beep` `r icon::fa("music")` 
+## :notes: `beep`-`beep`
 
 Add a little fun to your scripts! The `beep` function from the `beepr` package plays various sounds on command. 
 Use it to play a sound to alert you when a long running command completes. 
 Here's an example that plays the happy __Mario__ coin sound after the script runs succesfully. 
-
-__Try this:__
 
 ```{r}
 devtools::install_github("beepr")
@@ -17,6 +15,7 @@ devtools::install_github("beepr")
 
 <img src="images/mario.ico" style="float: left; margin-top: 2px; margin-right: 18px;" />
 
+<div style="float: left;">
 ```{r}
 library(beepr)
 
@@ -31,5 +30,8 @@ for(i in 1:nrow(df)) {
 beepr::beep("mario")
 
 ```
+</div>
+
 ---
 
+<hr>
