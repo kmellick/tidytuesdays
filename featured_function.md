@@ -13,9 +13,8 @@ Here's an example that plays the happy __Mario__ coin sound after the script run
 devtools::install_github("beepr")
 ```
 
-<img src="images/mario.ico" style="float: left; margin-top: 2px; margin-right: 18px;" />
+<img src="images/mario.ico" width="15%" />
 
-<div style="float: left;">
   
 ```{r}
 library(beepr)
@@ -31,8 +30,10 @@ for(i in 1:nrow(df)) {
 beepr::beep("mario")
 
 ```
-</div>
 
----
+---  
+
 
 <hr>
+
+## 
