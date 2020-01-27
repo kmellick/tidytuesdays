@@ -3,6 +3,7 @@
 <br>
 
 - [`beep()`](#beep-beepnotes)
+- [`function2()`](#function2)
 
 <br>
 
@@ -37,4 +38,4 @@ beepr::beep("mario")
 ---  
 
 
-## 
+# Function 2
