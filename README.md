@@ -8,7 +8,7 @@
 
 <br>
 
-## :fire: Featured functions
+## :hatching_chick: Featured functions
 
 - `beepr::beep("mario")`
 
