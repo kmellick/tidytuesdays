@@ -37,13 +37,9 @@ Things for talking.
 <details>
 <summary> 3 </summary>
     
-> How do we store and share our methods and code?
+> How do we store and share our methods and code? Do your analyses have versions?
 
 </details>
-
-
- 
-
 
 <br>
 
