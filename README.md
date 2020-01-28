@@ -10,7 +10,7 @@
 
 ## :hatching_chick: Featured functions
 
-- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#tidylog)
+- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#librarytidylog)
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#beep-beepnotes)
 
 <br>
@@ -18,11 +18,25 @@
 ## Discussion
 
 <details>
-<summary>Things for later</summary>
+<summary> Things for talking </summary>
     
-    -
-    -
-    -
+    - 1. How do we approach reproducibility, collaboration and communication about data?
+    - 1. What would a team workflow using open data science tools look like? How do we get there?
+    - 1. How do we store and share our methods and code?
+ 
+</details>
+
+<br>
+
+## Future topics
+
+<details>
+<summary> Things for demoing </summary>
+    
+    - 1. `gganimate`
+    - 1. 
+    - 1. `data.table`
+    - 1. 
  
 </details>
 
@@ -54,6 +68,7 @@
     - Routine schedule
     - Annual __R week__?
 - R team puzzle room _(Cat Zombies)_
+- `library(ecoquotes)` or for Barbara `trekkiequotes`
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown templates with logo, header, fonts
     - <img src="images/mpca_template.png" width="60%"> 
