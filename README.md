@@ -99,7 +99,7 @@ Things for talking.
 - MPCA / MN R hex sticker <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%"> 
     - A porg, or a flyging squirrel, or a porg on a flying squirrel?
 - `library(mpcadata)`
-    - Connect to delta, tempo, GIS resources
+    - Connect to delta, equis, AirVision, tempo, GIS resources
     - Store common reference data
         - Facility ID --> TEMPO ID    
 - `library(mpcaggthemes)`
