@@ -51,7 +51,7 @@ Things for talking.
 > 1. `gganimate`
 >     - gifs for mpca tweets
 > 1. `data.table`
-> 1. ??
+> 1. Project swap
 > 1. ??
  
 </details>
