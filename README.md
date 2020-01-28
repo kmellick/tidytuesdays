@@ -53,6 +53,13 @@ Things for talking.
  
 <br>
 
+## What we're learning
+
+- [Intro to modeling & predictions](https://supervised-ml-course.netlify.com/chapter1)
+
+
+<br>
+
 ## :phone: Calls for **HELP!**
 
 - [ ]  Please publish a Rmarkdown report (*Barbara*)
