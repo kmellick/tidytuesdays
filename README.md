@@ -74,7 +74,8 @@ Things for talking.
 > 1. Create R packages
 > 1. Write tests - testthat (Barbara)
 > 1. Add data set to Kaggle - Pose questions
-> 1. 
+> 1. [R generative art](https://www.data-imaginist.com/art)
+>    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
 > 1.
 
 <br>
@@ -110,12 +111,11 @@ Things for talking.
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - `library(mpcadashboard)`
-    - Can we make auto-updated dashboards to replace this static [paper](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures)?
+    - Can we make this static [paper](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures) auto-update?
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown templates with logo, header, fonts
     - <img src="images/mpca_template.png" width="60%"> 
 - R training
-    - Routine schedule
     - Annual __R week__?
 - R team puzzle room _(Cat Zombies)_
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
