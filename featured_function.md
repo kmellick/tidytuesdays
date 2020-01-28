@@ -2,12 +2,20 @@
 
 <br>
 
+- [`tidylog()`](#library(tidylog))
 - [`beep()`](#beep-beepnotes)
 - [`function2()`](#function2)
 
 <br>
 
-# `beep()`-`beep()`:notes: 
+# `library(tidylog)`
+
+R just got even friendlier. This is technically a package, but it makes all of your _tidyverse_ functions present you with a nice informative messages after running them. Here's a few.
+
+
+
+
+# `beep()`, `beep()`:notes: 
 
 Add a little music to your scripts! The `beep()` function from the `beepr` package plays various sounds on command. 
 Use it to play a sound to alert you when a long running command completes. 
