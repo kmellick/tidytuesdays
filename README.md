@@ -18,14 +18,32 @@
 
 ## Discussion
 
+Things for talking.
+
 <details>
-<summary> Things for talking </summary>
+<summary> 1 </summary>
     
-    - 1. How do we approach reproducibility, collaboration and communication about data?
-    - 1. What would a team workflow using open data science tools look like? How do we get there?
-    - 1. How do we store and share our methods and code?
- 
+> How do we approach reproducibility, collaboration and communication about data?
+
 </details>
+
+<details>
+<summary> 2 </summary>
+
+> What would a team workflow using open data science tools look like? How do we get there?
+
+</details>
+
+<details>
+<summary> 3 </summary>
+    
+> How do we store and share our methods and code?
+
+</details>
+
+
+ 
+
 
 <br>
 
@@ -34,10 +52,11 @@
 <details>
 <summary> Things for demoing </summary>
     
-    - 1. `gganimate`
-    - 1. 
-    - 1. `data.table`
-    - 1. 
+> 1. `gganimate`
+>     - gifs for mpca tweets
+> 1. `data.table`
+> 1. ??
+> 1. ??
  
 </details>
 
