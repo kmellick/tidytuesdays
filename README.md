@@ -86,7 +86,6 @@ Things for talking.
     - Routine schedule
     - Annual __R week__?
 - R team puzzle room _(Cat Zombies)_
-- MPCA data twitter
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown templates with logo, header, fonts
