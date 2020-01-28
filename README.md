@@ -10,14 +10,27 @@
 
 ## :hatching_chick: Featured functions
 
+- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#tidylog)
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#beep-beepnotes)
 
+<br>
+
+## Discussion
+
+<details>
+<summary>Things for later</summary>
+    
+    -
+    -
+    -
+ 
+</details>
 
 <br>
 
 ## :phone: Calls for **HELP!**
 
-- [ ]  Please publish a Shiny App (*Kristie*)
+- [ ]  Please publish a Rmarkdown report (*Barbara*)
 - [ ]  And embed on MPCA website (*Dorian*)
 
 <br>
@@ -37,6 +50,10 @@
 - _(official-unofficial)_ [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
+- R training
+    - Routine schedule
+    - Annual __R week__?
+- R team puzzle room _(Cat Zombies)_
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown templates with logo, header, fonts
     - <img src="images/mpca_template.png" width="60%"> 
