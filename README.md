@@ -44,18 +44,13 @@ Things for talking.
 <br>
 
 ## Future topics
-
-<details>
-<summary> Things for demoing </summary>
-    
+ 
 > 1. `gganimate`
 >     - gifs for mpca tweets
 > 1. `data.table`
 > 1. Project swap
 > 1. ??
  
-</details>
-
 <br>
 
 ## :phone: Calls for **HELP!**
