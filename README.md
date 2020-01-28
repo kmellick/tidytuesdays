@@ -106,16 +106,18 @@ Things for talking.
 - `library(mpcaggthemes)`
     - _ggplot_ colors and fonts
 - _(official-unofficial)_ [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
-- Data analysis guide (currently air focused) https://mpca-air.github.io/air-methods/
+- [MPCA Methods Guide](https://mpca-air.github.io/air-methods/) _(currently air focused)_ 
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
+- `library(mpcadashboard)`
+    - Can we make auto-updated dashboards to replace this static [paper](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures)?
+- `library(mpcatemplates)` or `library(mpcareports)`
+    - RMarkdown templates with logo, header, fonts
+    - <img src="images/mpca_template.png" width="60%"> 
 - R training
     - Routine schedule
     - Annual __R week__?
 - R team puzzle room _(Cat Zombies)_
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
-- `library(mpcatemplates)` or `library(mpcareports)`
-    - RMarkdown templates with logo, header, fonts
-    - <img src="images/mpca_template.png" width="60%"> 
 
 <br>
