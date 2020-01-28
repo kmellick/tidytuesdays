@@ -65,6 +65,7 @@ Things for talking.
 ## Future topics
  
 > 1. Non-detects: `NADA` vs `EnvStats` 
+> 1. Kriging - Spatial interpolating between map points
 > 1. `gganimate`
 >     - gifs for mpca tweets
 > 1. `data.table` (Derek)
