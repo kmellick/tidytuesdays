@@ -15,7 +15,7 @@
 
 - Timing
 - Rotating host
--
+- Snacks
 
 <br>
 
@@ -64,12 +64,18 @@ Things for talking.
 
 ## Future topics
  
+> 1. Non-detects: `NADA` vs `EnvStats` 
 > 1. `gganimate`
 >     - gifs for mpca tweets
-> 1. `data.table`
+> 1. `data.table` (Derek)
 > 1. Project swap - Will it run?
-> 1. ??
- 
+> 1. SF tree map
+> 1. Create R packages
+> 1. Write tests - testthat (Barbara)
+> 1. Add data set to Kaggle - Pose questions
+> 1. 
+> 1.
+
 <br>
 
 ## What we're learning
@@ -99,6 +105,7 @@ Things for talking.
 - `library(mpcaggthemes)`
     - _ggplot_ colors and fonts
 - _(official-unofficial)_ [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
+- Data analysis guide (currently air focused) https://mpca-air.github.io/air-methods/
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
 - R training
