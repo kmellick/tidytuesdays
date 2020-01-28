@@ -11,6 +11,8 @@
 
 ## :hatching_chick: Featured functions
 
+Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/).
+
 - [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#librarytidylog)
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#beep-beepnotes)
 
