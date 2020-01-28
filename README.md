@@ -1,16 +1,13 @@
 # tidytuesdays
 
-<br>
+![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=200&h=200)
+
+#### Are you ready for our R hour?
 
 > Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring all your burning questions, new packages, funny graphs, puzzles, and everything else you'd like to discuss. 
 > 
 > **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 > 
-
-
-#### Are you ready for our R hour?
-
-![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=200&h=200)
 
 <br>
 
