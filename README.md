@@ -7,9 +7,25 @@
 > **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 > 
 
-Are you ready for our R hour?
+
+#### Are you ready for our R hour?
 
 ![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=200&h=200)
+
+<br>
+
+## Logistics
+
+- Timing
+- Rotating host
+-
+
+<br>
+
+
+## Anouncements
+
+- [RStudio Conf 2020](https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/summary) - Jan 29-30th
 
 <br>
 
