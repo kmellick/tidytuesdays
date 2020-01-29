@@ -117,6 +117,8 @@ Things for talking.
     - <img src="images/mpca_template.png" width="60%"> 
 - R training
     - Annual __R week__?
+    - [Star Wars training](https://itep-r.netlify.com/)
+    - The original old-school [Cat training](https://mpca-air.github.io/RCamp/)
 - R team puzzle room _(Cat Zombies)_
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
 
