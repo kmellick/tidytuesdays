@@ -22,7 +22,7 @@
 
 ## Anouncements
 
-- [RStudio Conf 2020](https://rstudio.com/conference/y) streaming -> Jan 29-30th
+- [RStudio Conf 2020](https://rstudio.com/conference/) streaming -> Jan 29-30th
 
 <br>
 
