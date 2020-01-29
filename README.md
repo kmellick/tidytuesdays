@@ -114,7 +114,7 @@ Things for talking.
     - Can we make this static [paper](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures) auto-update?
 - `library(mpcatemplates)` or `library(mpcareports)`
     - RMarkdown templates with logo, header, fonts
-    - <img src="images/mpca_template.png" width="60%"> 
+    - <img src="images/mpca_template.png" width="40%"> 
 - R training
     - Annual __R week__?
     - [Star Wars training](https://itep-r.netlify.com/)
