@@ -13,7 +13,7 @@
 
 ## Logistics
 
-- Timing, rotating hosts, snacks
+- Timing (next week), rotating host, snacks
 
 <br>
 
