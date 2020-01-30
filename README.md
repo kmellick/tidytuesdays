@@ -64,11 +64,11 @@ Things for talking.
  
 > 1. Non-detects: `NADA` vs `EnvStats` 
 > 1. Kriging - Spatial interpolating between map points
+> 1. What is Rmarkdown?
 > 1. `gganimate`
 >     - gifs for mpca tweets
 > 1. `data.table` (Derek)
 > 1. Project swap - Will it run?
-> 1. SF tree map
 > 1. Create R packages
 > 1. Write tests - testthat (Barbara)
 > 1. Add data set to Kaggle - Pose questions
