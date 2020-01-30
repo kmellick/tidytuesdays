@@ -13,9 +13,7 @@
 
 ## Logistics
 
-- Timing
-- Rotating host
-- Snacks
+- Timing, rotating hosts, snacks
 
 <br>
 
