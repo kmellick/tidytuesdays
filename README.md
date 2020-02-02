@@ -109,6 +109,7 @@ Things for talking.
 - `library(mpcaggthemes)`
     - _ggplot_ colors and fonts
 - _(official-unofficial)_ [MPCA Data Guide](https://mpca-data.github.io/Data-Guide/)
+    - Add data sharing & publishing steps
 - [MPCA Methods Guide](https://mpca-air.github.io/air-methods/) _(currently air focused)_ 
 - `library(chemicalnames)`
     - I have `Methyl Bromide`, you have `Bromomethane`, but we all want `74-83-9`
