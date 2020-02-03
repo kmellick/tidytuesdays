@@ -38,7 +38,7 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 ## Discussion
 
-Things for talking.
+Things to talk about.
 
 <details>
 <summary> 1 </summary>
