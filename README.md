@@ -11,7 +11,7 @@
 
 <br>
 
-## Logistics
+## Anouncements
 
 - Timing / locations (next week), rotating host, snacks
 
@@ -24,12 +24,6 @@
 | Feb 4, 2020 | 12:30-2:00 | Eco Data Science - Santa Barbara - Spatial analysis & editing | Zoom: https://ucsb.zoom.us/j/390601568 | https://eco-data-science.github.io/  |    
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Streamed online - Recordings available |   |      |
 
-<br>
-
-## Anouncements
-
-- 
--  
 
 <br>
 
