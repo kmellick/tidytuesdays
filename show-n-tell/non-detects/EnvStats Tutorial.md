@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/MPCA-air/public-data/master/Monitoring_data/20
 
 <br>
 
-```{r, eval = F}
+```r
 install.packages(c("data.table", "tidyverse", "janitor", "lubridate", "EnvStats"))
 ```
 
@@ -33,7 +33,7 @@ install.packages(c("data.table", "tidyverse", "janitor", "lubridate", "EnvStats"
 
 <br>
 
-```{r prep1, message = F}
+```r 
 library(data.table)
 library(tidyverse)
 library(janitor)
@@ -64,7 +64,7 @@ Most of the functions accept NA values, but it's easier to just remove them befo
 
 <br>
 
-```{r prep2, eval = F}
+```r
 toxics <- filter(toxics, !is.na(conc)) %>%
   #convert date character to POXICct
   mutate(sample_date = ymd(sample_date),
@@ -85,7 +85,7 @@ In the example below, we also return NA if more than 80% of the values are censo
 
 <br>
 
-```{r site means, eval = F}
+```r 
 site_means <- toxics %>%
   #we average results by site, pollutant, and year
   group_by(site_number, parameter, year = year(sample_date)) %>%
@@ -111,7 +111,7 @@ We can generate upper (or lower) confidence limits for the mean estimate using b
 
 <br>
 
-```{r bootstrap, eval = F}
+```r 
 
 n_bootstrap <- 10
 
