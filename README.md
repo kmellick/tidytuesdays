@@ -29,7 +29,7 @@
 
 ## :hatching_chick: Featured functions
 
-Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/).
+Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
 - [`EnvStats::elnormAltCensored(conc, cens)`](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) 
 - [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#librarytidylog)
