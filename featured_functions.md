@@ -4,7 +4,7 @@
 
 - [`tidylog()`](#library(tidylog))
 - [`beep()`](#beep-beepnotes)
-- [`function2()`](#function2)
+- [`add_count()`](#firstwecount)
 
 <br>
 
@@ -91,6 +91,36 @@ beepr::beep("mario")
 ```
 <br>
 
-# `function2()`
+# First we count
 
-# `function3()`
+``` r
+library(dplyr)
+library(readr)
+```
+
+```r
+tree_url <- "https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-28/sf_trees.csv"
+
+trees <- read_csv(tree_url)
+
+glimpse(trees)
+
+
+# Count the number of each species
+# As new table
+trees %>% count(species)
+
+# Count and then arrange 
+trees %>% count(species, sort = T)
+
+# Give the count column a special name
+tree_counts <- trees %>% count(species, sort = T, name = "total_trees")
+
+
+# Count the number of each species
+## As new column
+trees <- trees %>% add_count(species, sort = T)
+
+```
+
+# ``
