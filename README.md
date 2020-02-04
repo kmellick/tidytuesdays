@@ -136,7 +136,6 @@ Things to talk about.
     - Annual __R week__?
     - [Star Wars training](https://itep-r.netlify.com/)
     - The original old-school [Cat training](https://mpca-air.github.io/RCamp/)
-- R team puzzle room _(Cat Zombies)_
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
 
 <br>
