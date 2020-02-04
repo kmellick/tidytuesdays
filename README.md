@@ -69,6 +69,7 @@ Things to talk about.
 ## Future topics
  
 > 1. Non-detects: `NADA` vs `EnvStats` 
+> 1. Time series forecasting (Barbara)
 > 1. Kriging - Spatial interpolating between map points
 > 1. What is Rmarkdown?
 > 1. `gganimate`
