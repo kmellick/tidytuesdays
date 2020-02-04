@@ -4,7 +4,7 @@
 
 - [`tidylog()`](#library(tidylog))
 - [`beep()`](#beep-beepnotes)
-- [`add_count()`](#firstwecount)
+- [`add_count()`](#counting-is-easy-with-add_count)
 
 <br>
 
@@ -123,4 +123,4 @@ trees <- trees %>% add_count(species, sort = T)
 
 ```
 
-##  Poop
+##  
