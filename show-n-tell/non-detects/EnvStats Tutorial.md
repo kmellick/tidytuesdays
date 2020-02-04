@@ -84,7 +84,7 @@ toxics <- filter(toxics, !is.na(conc)) %>%
 EnvStats functions also require two other conditions:
 
 1. There must be at least 2 unique values in `x` where `censored == F`. We can use an if() statement to return NA if that condition is not met.
-1. At least one value in `censored == F`. If all values are not censored (they are all detected), we must use a different function such as plain old mean.
+1. At least one value in `censored == T`. If all values are not censored -they are all detected- we must use a different function such as the plain arithmetic mean.
 
 In the example below, we also return NA if more than 80% of the values are censored since while the function will work with > 80% censored values as long as the first condition above is met, the estimates are less reliable with so much of the data being censored.
 
