@@ -71,11 +71,11 @@ Things to talk about.
 > 1. What is Rmarkdown?
 > 1. `gganimate`
 >     - gifs for mpca tweets
-> 1. Working w/ strings & text  
-      - Find words  
-      - Split text columns  
-      - Pull data from PDFs  
-      - Get data from web pages  
+> 1. Working w/ strings & text
+>     - Find words
+>     - Split text columns
+>     - Pull data from PDFs  
+>     - Get data from web pages  
 > 1. Project swap - Will it run?
 > 1. Working in GitHub
 > 1. `data.table` (Derek)
