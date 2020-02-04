@@ -31,8 +31,9 @@
 
 Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/).
 
-- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#librarytidylog)
-- [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_function.md#beep-beepnotes)
+- [EnvStats::elnormAltCensored(conc, cens)](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) *(longest function name ever)_
+- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#librarytidylog)
+- [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#beep-beepnotes)
 
 <br>
 
