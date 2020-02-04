@@ -91,7 +91,7 @@ beepr::beep("mario")
 ```
 <br>
 
-# First we count
+# Counting is easy with `add_count()`
 
 ``` r
 library(dplyr)
@@ -123,4 +123,4 @@ trees <- trees %>% add_count(species, sort = T)
 
 ```
 
-# ``
+##  Poop
