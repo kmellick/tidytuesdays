@@ -31,7 +31,7 @@
 
 Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/).
 
-- [`EnvStats::elnormAltCensored(conc, cens)`](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) *(longest function name ever)*
+- [`EnvStats::elnormAltCensored(conc, cens)`](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) 
 - [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#librarytidylog)
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#beep-beepnotes)
 
@@ -71,8 +71,14 @@ Things to talk about.
 > 1. What is Rmarkdown?
 > 1. `gganimate`
 >     - gifs for mpca tweets
-> 1. `data.table` (Derek)
+> 1. Working w/ strings & text  
+      - Find words  
+      - Split text columns  
+      - Pull data from PDFs  
+      - Get data from web pages  
 > 1. Project swap - Will it run?
+> 1. Working in GitHub
+> 1. `data.table` (Derek)
 > 1. Create R packages
 > 1. Write tests - testthat (Barbara)
 > 1. Add data set to Kaggle - Pose questions
