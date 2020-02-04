@@ -46,7 +46,12 @@ toxics <- clean_names(toxics)
 
 names(toxics)
 
-names(toxics)[c(13, 27)] <- c("conc", "dl")
+#names(toxics)[c(13, 27)] <- c("conc", "dl")
+
+# Or use rename() to be super safe
+toxics <- rename(toxics, 
+                 conc = reported_sample_value,
+                 dl   = alternate_method_detection_limit)
 ```
 
 <br>
