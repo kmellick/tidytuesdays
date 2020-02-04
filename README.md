@@ -32,7 +32,7 @@
 Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
 - [`dplyr::add_count()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#counting-is-easy-with-add_count)
-- [`pmax()`] - _Find the max value across 2 columns, row by row._
+- `pmax()` - _Find the max value across 2 columns, row by row._
 - [`EnvStats::elnormAltCensored()`](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) 
 - [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#librarytidylog)
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#beep-beepnotes)
