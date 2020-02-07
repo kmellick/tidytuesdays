@@ -40,6 +40,16 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 <br>
 
+## What we're learning
+
+<a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="11%" align="left" /></a>
+<br><br>
+
+- [Cute giraffe stats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
+- [Intro to modeling & predictions](https://supervised-ml-course.netlify.com/chapter1)
+
+<br><br><br>
+
 ## Discussion
 
 Things to talk about.
@@ -67,15 +77,6 @@ Things to talk about.
 
 <br>
 
-## What we're learning
-
-<a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="11%" align="left" /></a>
-<br><br>
-
-- [Cute giraffe stats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
-- [Intro to modeling & predictions](https://supervised-ml-course.netlify.com/chapter1)
-
-<br><br><br>
 
 ## Future topics
  
