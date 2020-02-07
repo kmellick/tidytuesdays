@@ -22,8 +22,8 @@
 
 | Date | Time | Event  | Event link | Group webpage |  
 | --- | --- | --- | --- | --- |
-| Feb 4, 2020 | 1:30-3| Eco Data Science - Santa Barbara - Spatial analysis & editing | Zoom: https://ucsb.zoom.us/j/390601568 | https://eco-data-science.github.io/  |    
-| Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Streamed online - Recordings available |   |      |
+| Feb 4, 2020 | 1:30-3| Eco Data Science - :santa: Santa Barbara - GIS analysis + editing | Zoom: https://ucsb.zoom.us/j/390601568 | https://eco-data-science.github.io/  |    
+| Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | https://resources.rstudio.com/  |   https://rstudio.com/conference/   |
 
 
 <br>
