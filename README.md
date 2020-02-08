@@ -80,7 +80,8 @@ Things to talk about.
 
 ## Future topics
 
-> 1. Show-n-tell what you want to replace: mega Excel tools, 
+> 1. Show-n-tell what you want to replace: mega Excel tools, Access
+> 1. Is it an outlier?
 > 1. Non-detects: `NADA` vs `EnvStats` 
 > 1. Time series forecasting (Barbara)
 > 1. Kriging - Spatial interpolating between map points
